@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   background-image: none;
 }
 
@@ -120,6 +120,11 @@
 
 .u-section-1 .u-icon-4 {
   background-image: none;
+}
+
+.top-page-landing-image {
+  scale: 80%;
+  border-radius: 30px;
 }
 
 .u-section-1 .u-icon-5 {
