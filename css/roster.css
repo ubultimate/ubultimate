@@ -11,6 +11,14 @@
   margin: 60px auto 0;
 }
 
+.green {
+  color:royalblue;
+  background-color: grey;
+  font-size: 35px;
+  font-weight: 700;
+  border-radius: 30px;
+}
+
 .u-section-1 .u-text-2 {
   font-size: 1.23529rem;
   font-weight: 400;
