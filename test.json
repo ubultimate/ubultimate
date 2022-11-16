@@ -1,13 +1,50 @@
 [
     {
-        "Name": "Asa",
-        "Location": "Albany",
-        "Position": "Handler"
-      
+        "Name": "Elsa Asa",
+        "Location": "Albany, NY",
+        "Position": "Cutter",
+        "Number": "12",
+        "imgURL": "wip",
+        "Redflag": "obvious"
     },
     {
-        "Name": "Jack",
-        "Location": "LI",
-        "Position": "Cutter"
+        "Name": "Jack P",
+        "Location": "Izy's house",
+        "Position": "Handler",
+        "Number": "63",
+        "imgURL": "wip",
+        "Redflag": "no dump"
+    },
+    {
+        "Name": "Seamus Rowan",
+        "Location": "GOAT",
+        "Position": "Cutter",
+        "Number": "12",
+        "imgURL": "wip",
+        "Redflag": "obvious"
+    },
+    {
+        "Name": "Carson",
+        "Location": "VB",
+        "Position": "Handler",
+        "Number": "52",
+        "imgURL": "wip",
+        "Redflag": "volleyball"
+    },
+    {
+        "Name": "Lucas DP Taber",
+        "Location": "GOAT",
+        "Position": "Handler",
+        "Number": "12",
+        "imgURL": "wip",
+        "Redflag": "cmon now"
+    },
+    {
+        "Name": "Soap",
+        "Location": "car",
+        "Position": "bench",
+        "Number": "62",
+        "imgURL": "wip",
+        "Redflag": "we all know cmon"
     }
 ]
