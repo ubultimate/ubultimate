@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <base target="_top"">
+    </head>
+
+    <body onload="display();">
+        <label style="font-size:25px;"> Roster</label>
+        <table id="target" border="1"></table>
+
+        <p id="Name">a</p>
+        <p id="Position">aa</p>
+        <p id="Location">aaa</p>
+        <p id="Color">aaaa</p>
+
+        <br><br>
+
+        <script>
+            async function getData(url) {
+                const response = await fetch(url);
+                return response.json();
+            }
+
+            const data = await getData('https://github.com/ubultimate/ubultimate/blob/main/test.json')
+            console.log({ data });
+            
+
+
+            function display(){
+                
+                document.getElementById("Name").innerText = "hellow"
+                for(let i in data) {
+                    // document.getElementById('target').innerHTML+="<tr> <td>"+k+"</td> <td>"+dict[k]+"</td> </tr>";
+                    document.getElementById("Name").innerText = "hellowww"
+                    document.getElementById('Position').innerText = dict[i]
+                    console.log(i)
+                }
+
+            }
+
+
+
+
+
+
+
+        </script>
+
+    </body>
+</html>
