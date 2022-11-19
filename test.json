@@ -1,50 +1,210 @@
 [
     {
-        "Name": "Elsa Asa",
-        "Location": "Albany, NY",
-        "Position": "Cutter",
-        "Number": "12",
-        "imgURL": "https://resizing.flixster.com/KZNkDNclEpm3XM2Aket8wTeVd9g=/300x300/v2/https://flxt.tmsimg.com/assets/41469_bu.jpg",
-        "Redflag": "obvious"
-    },
-    {
-        "Name": "Jack P",
-        "Location": "Izy's house",
+        "Name": "Sam \"B. Shaft\" Sommers-Thaler",
+        "Location": "JCC GYM",
         "Position": "Handler",
-        "Number": "63",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Elsa.jpg",
-        "Redflag": "no dump"
+        "Number": "1",
+        "imgURL": "",
+        "Redflag": "Gets really exited when high"
     },
     {
         "Name": "Seamus Rowan",
         "Location": "GOAT",
+        "Position": "",
+        "Number": "2",
+        "imgURL": "Cutter",
+        "Redflag": "His throws are worse than Seaworld... let that sink in"
+    },
+    {
+        "Name": "Joey \"Joey\" De Ondarza",
+        "Location": "ECP, NY",
+        "Position": "Bench",
+        "Number": "7",
+        "imgURL": "",
+        "Redflag": "Plays Disc golf"
+    },
+    {
+        "Name": "Lucas \"DP\" Taber",
+        "Location": "VENU, DOWNTOWN BUFFALO",
+        "Position": "Handler",
+        "Number": "10",
+        "imgURL": "",
+        "Redflag": "\"Mom I have Eboard training...\""
+    },
+    {
+        "Name": "Kevin Puebla",
+        "Location": "TIM HORTONS ON SUNDAYS",
+        "Position": "Handler",
+        "Number": "11",
+        "imgURL": "",
+        "Redflag": "Jack's son... I know right"
+    },
+    {
+        "Name": "Asa \"Elsa\" Mohammed",
+        "Location": "Gov's",
         "Position": "Cutter",
         "Number": "12",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Dev1.jpg",
-        "Redflag": "obvious"
+        "imgURL": "",
+        "Redflag": "Hits on freshmen strictly to recruit them for Women's team"
     },
     {
-        "Name": "Carson",
-        "Location": "VB",
+        "Name": "Rodrigo \"Rod\" Tjan",
+        "Location": "SLICK WILLIE'S, BUFFALO",
+        "Position": "Handler",
+        "Number": "13",
+        "imgURL": "",
+        "Redflag": "His butt is out at least 12 times a day"
+    },
+    {
+        "Name": "Devin \"Ducks\" Hendricks",
+        "Location": "ALBANY, NY!!!",
+        "Position": "The bench, below Joey's bench",
+        "Number": "15",
+        "imgURL": "",
+        "Redflag": "Banned from main groupchat for 3 months"
+    },
+    {
+        "Name": "Ethan Snyderman",
+        "Location": "HIS ROOM.",
+        "Position": "Linebacker",
+        "Number": "18",
+        "imgURL": "",
+        "Redflag": "Throwing liability"
+    },
+    {
+        "Name": "Noah \"Mingo\" Reifenheiser",
+        "Location": "LADY TOWN, NY",
+        "Position": "Handler",
+        "Number": "21",
+        "imgURL": "",
+        "Redflag": "Playes disc golf with Joey by choice..."
+    },
+    {
+        "Name": "Elliot \"Zeke\" Rivera",
+        "Location": "the GOAT",
+        "Position": "Handler",
+        "Number": "22",
+        "imgURL": "",
+        "Redflag": "Can't take him anywhere, will climb anything and everything"
+    },
+    {
+        "Name": "Carson Essenburg",
+        "Location": "BUFF STATE VOLLEYBALL COURT, NY",
+        "Position": "Handler",
+        "Number": "23",
+        "imgURL": "",
+        "Redflag": "Friends with Soap..."
+    },
+    {
+        "Name": "Michael Shore",
+        "Location": "NERD TOWN, NY",
+        "Position": "Cutter",
+        "Number": "24",
+        "imgURL": "",
+        "Redflag": "He's just not that guy"
+    },
+    {
+        "Name": "Joe \"Push Pass\" Bachraty",
+        "Location": "SHERMAN HALL 25",
+        "Position": "Handler",
+        "Number": "25",
+        "imgURL": "",
+        "Redflag": "Shoved a probe up Elsa's butt hole?!"
+    },
+    {
+        "Name": "Chris Mattos",
+        "Location": "PROBABLY IN THE LIBRARY...",
+        "Position": "Cutter",
+        "Number": "27",
+        "imgURL": "",
+        "Redflag": "Lives with Naps"
+    },
+    {
+        "Name": "Andrew \"Licki\" Ralicki",
+        "Location": "SOME CONSTRUCTION SITE, NY",
+        "Position": "Def Cutter. Have you seen his flicks",
+        "Number": "29",
+        "imgURL": "",
+        "Redflag": "\"I’m Ralicki, I go to buffalo, I want to fight fire and whatever because it’s cool\""
+    },
+    {
+        "Name": "Alex \"Chan\" Chan",
+        "Location": "NOT ELSA'S FAMILY LINE, NY",
+        "Position": "Handler",
+        "Number": "30",
+        "imgURL": "",
+        "Redflag": "Termination of parental rights of Elsa. He's Joey's son now... def a downgrade..."
+    },
+    {
+        "Name": "Evan \"Vinny\" Bembenista",
+        "Location": "Elsa's floor",
+        "Position": "Handler",
+        "Number": "35",
+        "imgURL": "",
+        "Redflag": "Said no to Michelle"
+    },
+    {
+        "Name": "Thomas \"Swipes\" Graham",
+        "Location": "IN LONG ISLAND",
+        "Position": "Hybrid",
+        "Number": "40",
+        "imgURL": "",
+        "Redflag": "\"I don’t use a dishwater, I use women\" -TG 2022"
+    },
+    {
+        "Name": "Colton \"Colt\" Zack",
+        "Location": "BACK OF THE ENDZONE (L)",
+        "Position": "Hybrid",
+        "Number": "45",
+        "imgURL": "",
+        "Redflag": "Secretly racist"
+    },
+    {
+        "Name": "Sean \"Hunka\" O'Malley",
+        "Location": "Where all the B*t*hes at",
         "Position": "Handler",
         "Number": "52",
-        "imgURL": "wip",
-        "Redflag": "volleyball"
+        "imgURL": "",
+        "Redflag": "Doesn't hit on enough women."
     },
     {
-        "Name": "Lucas DP Taber",
-        "Location": "GOAT",
+        "Name": "Joey \"Naps\" LaMacchia",
+        "Location": "ANNOYING TOWN, NY",
+        "Position": "Catcher of ICP from Elsa",
+        "Number": "55",
+        "imgURL": "",
+        "Redflag": "Thinks Gooch is hornier than Elsa"
+    },
+    {
+        "Name": "Jack \"Mehoff\" Puttre",
+        "Location": "THE CLAP.",
         "Position": "Handler",
-        "Number": "12",
-        "imgURL": "wip",
-        "Redflag": "cmon now"
+        "Number": "63",
+        "imgURL": "",
+        "Redflag": "Lives with 78% of Lorax"
     },
     {
-        "Name": "Soap",
-        "Location": "car",
-        "Position": "bench",
-        "Number": "62",
-        "imgURL": "wip",
-        "Redflag": "we all know cmon"
+        "Name": "Elias McQuade",
+        "Location": "GOOCH'S High school",
+        "Position": "Cutter",
+        "Number": "77",
+        "imgURL": "",
+        "Redflag": "Small petite women..."
+    },
+    {
+        "Name": "Reilly \"Sport\" Donovan",
+        "Location": "CORNELL TRAINING CAMP, NY",
+        "Position": "Oline Handler",
+        "Number": "81",
+        "imgURL": "",
+        "Redflag": "\"No hucks\" *20 seconds later hucks to Carson*"
+    },
+    {
+        "Name": "Michael \"Soap\" Warsaw",
+        "Location": "TILTED TOWERS, NY",
+        "Position": "Cutter",
+        "Number": "87",
+        "imgURL": "",
+        "Redflag": "In love with Kim Koval!!!"
     }
 ]
