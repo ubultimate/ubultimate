@@ -25,13 +25,12 @@ async function playerData() {
     for(let i in playerData) {
         let currentPlayer = playerData[i];
         let currentPlayerName = currentPlayer['Name'];
-        let currentPlayerLoc = currentPlayer['Location']
-        let currentPlayerPos = currentPlayer['Position']
-        let currentPlayerNum = currentPlayer['Number']
-        let currentPlayerImg = currentPlayer['imgURL']
-        let currentPlayerFlag = currentPlayer['Redflag']
+        let currentPlayerLoc = currentPlayer['Location'];
+        let currentPlayerPos = currentPlayer['Position'];
+        let currentPlayerNum = convertNumbers(currentPlayer['Number']);
+        let currentPlayerImg = currentPlayer['imgURL'];
+        let currentPlayerFlag = currentPlayer['Redflag'];
 
-        currentPlayerNum = convertNumbers(currentPlayerNum);
         // Sends data to populate the players roster which will show players cards/profiles
         populatePlayers(currentPlayerName, currentPlayerLoc, currentPlayerPos, currentPlayerNum, currentPlayerImg, currentPlayerFlag);
     }
@@ -87,9 +86,8 @@ function convertEmojiNum(inputNum) {
                 return "9️⃣";
         }
     } else {
-        return "Elsa You Suck at website stuff"
+        return "Elsa You Suck at website stuff";
     }
 }
-
 
 playerData();
