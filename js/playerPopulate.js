@@ -13,7 +13,7 @@ function customSortByNumber(fst,snd){
 }
 
 // Gets player data from JSON file and send data to populatePlayers function
-async function playerData(requestURL) {
+async function playerData() {
     // Gets data from JSON
     const requestURL = 'https://ubultimate.github.io/ubultimate/test.json';
     const request = new Request(requestURL);
