@@ -1,3 +1,10 @@
+// Custon sleep function 
+// Credit: https://www.educative.io/answers/what-is-the-javascript-alternative-to-the-sleep-function
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+
 // Sorts players by number so that they appear from lowest -> highest on website 
 // CopyRight - Big Rona <3
 function customSortByNumber(fst,snd){
@@ -11,6 +18,7 @@ function customSortByNumber(fst,snd){
         return 0;
     }
 }
+
 
 // Gets player data from JSON file and send data to populatePlayers function
 async function playerData() {
@@ -90,4 +98,7 @@ function convertEmojiNum(inputNum) {
     }
 }
 
+
+// Sleep for 10ms then populate players
+await sleep(10);
 playerData();
