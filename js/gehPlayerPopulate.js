@@ -10,7 +10,7 @@ function sleep(ms) {
 function customSortByNumber(fst,snd){
     let fstVal = fst["Number"];
     let sndVal = snd["Number"];
-    if(fstVal > sndVal){
+    if(+fstVal > +sndVal){
         return -69;
     } else if(fstVal < sndVal){
         return 420;
