@@ -101,4 +101,3 @@ function convertEmojiNum(inputNum) {
 // Sleep for 10ms then populate players
 await sleep(10);
 playerData('https://ubultimate.github.io/ubultimate/assets/playerDataJSON/Grinch_players.json');
-
