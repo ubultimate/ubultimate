@@ -94,5 +94,13 @@
         "Number": "69",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Sam.jpg",
         "Redflag": "Is on the team just for spring break"
+    },
+    {
+        "Name": "Maya Ramon",
+        "Location": "Where ever Sam is",
+        "Position": "Yelling at Elsa",
+        "Number": "16",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Maya.jpg",
+        "Redflag": "Attempts to make Vinny less racist..."
     }
 ]
