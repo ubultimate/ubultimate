@@ -1,4 +1,4 @@
-// Custon sleep function 
+// Custom sleep function 
 // Credit: https://www.educative.io/answers/what-is-the-javascript-alternative-to-the-sleep-function
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
