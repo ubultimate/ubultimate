@@ -14,3 +14,4 @@
 3. [] Change the about me section (to maybe practice info section??)
 4. [] Add link to thugginbot website when Elsa finally gets his lazy ass out of bed and find a free way to host it.
 5. [] Change the JS populate function to be 1 file and just call the function from player HTML file with the JSON link
+6. [x] Get help
