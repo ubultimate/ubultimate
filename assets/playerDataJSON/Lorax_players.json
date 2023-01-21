@@ -48,14 +48,6 @@
         "Redflag": "Used to go to Naz"
     },
     {
-        "Name": "Ella Velarde",
-        "Location": "Not on the team...",
-        "Position": "Cutter",
-        "Number": "3",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Emma.jpg",
-        "Redflag": "Lost in the crowd"
-    },
-    {
         "Name": "Ru",
         "Location": "Taylor Swift Concerts",
         "Position": "Cutter",
@@ -85,22 +77,6 @@
         "Position": "Handler",
         "Number": "9",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Micaela.jpg",
-        "Redflag": "Doesn'thave Venmo"
-    },
-    {
-        "Name": "Sam Kramer",
-        "Location": "Pistashio's",
-        "Position": "Yelling at Vinny",
-        "Number": "69",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Sam.jpg",
-        "Redflag": "Is on the team just for spring break"
-    },
-    {
-        "Name": "Maya Ramon",
-        "Location": "Where ever Sam is",
-        "Position": "Yelling at Elsa",
-        "Number": "16",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Maya.jpg",
-        "Redflag": "Attempts to make Vinny less racist..."
+        "Redflag": "Doesn't have Venmo"
     }
 ]
