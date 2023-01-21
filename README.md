@@ -9,10 +9,10 @@
 
 
 ## TODO:
-- [] Change main page dog picture
-- [] Add practice information
-- [] Change the about me section (to maybe practice info section??)
-- [] Add link to thugginbot website when Elsa finally gets his lazy ass out of bed and find a free way to host it.
+- [x] Change main page dog picture
+- [x] Add practice information
+- [x] Change the about me section (to maybe practice info section??)
+- [x] Add link to thugginbot website when Elsa finally gets his lazy ass out of bed and find a free way to host it.
 - [] Change the JS populate function to be 1 file and just call the function from player HTML file with the JSON link
 - [x] Get help
 - [] Add Naps' Video somewhere "sh*ts crazy"
