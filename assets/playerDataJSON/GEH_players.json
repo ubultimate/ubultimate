@@ -24,6 +24,14 @@
         "Redflag": "\"Mom I have Eboard training...\""
     },
     {
+        "Name": "Justin \"Seale\" Seale",
+        "Location": "NJ.",
+        "Position": "Definitely Handler",
+        "Number": "8",
+        "imgURL": "https://live.staticflickr.com/65535/52272446380_f6e71b81f3_z.jpg",
+        "Redflag": "Fortnite god also people just throw at him on defense"
+    },
+    {
         "Name": "Kevin Puebla",
         "Location": "TIM HORTONS ON SUNDAYS",
         "Position": "Handler",
@@ -104,12 +112,28 @@
         "Redflag": "Shoved a probe up Elsa's butt hole?!"
     },
     {
+        "Name": "Matthew \"Matt\" Montera",
+        "Location": "The Endzone, frisbee field",
+        "Position": "Dline Handler",
+        "Number": "26",
+        "imgURL": "https://live.staticflickr.com/65535/52270987612_66f1a4038d_b.jpg",
+        "Redflag": "\"MY HUSBAND... \""
+    },
+    {
         "Name": "Chris Mattos",
         "Location": "PROBABLY IN THE LIBRARY...",
         "Position": "Cutter",
         "Number": "27",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Chris.jpg",
         "Redflag": "Lives with Naps"
+    },
+    {
+        "Name": "Josh \"Seale\" Seale",
+        "Location": "NJ.",
+        "Position": "Handler",
+        "Number": "28",
+        "imgURL": "https://live.staticflickr.com/65535/52272446380_f6e71b81f3_z.jpg",
+        "Redflag": "Fortnite god also people just throw at him on defense. Has shorter hair that Justin."
     },
     {
         "Name": "Andrew \"Licki\" Ralicki",
@@ -200,35 +224,11 @@
         "Redflag": "In love with Kim Koval!!!"
     },
     {
-        "Name": "Josh \"Seale\" Seale",
-        "Location": "NJ.",
-        "Position": "Handler",
-        "Number": "28",
-        "imgURL": "https://live.staticflickr.com/65535/52272446380_f6e71b81f3_z.jpg",
-        "Redflag": "Fortnite god also people just throw at him on defense. Has shorter hair that Justin."
-    },
-    {
-        "Name": "Justin \"Seale\" Seale",
-        "Location": "NJ.",
-        "Position": "Definitely Handler",
-        "Number": "9",
-        "imgURL": "https://live.staticflickr.com/65535/52272446380_f6e71b81f3_z.jpg",
-        "Redflag": "Fortnite god also people just throw at him on defense"
-    },
-    {
         "Name": "Oatis Bustamante",
         "Location": "GOOCH'S",
         "Position": "Cuttest dog ever",
         "Number": "88",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Oatis.jpg",
         "Redflag": "Helps gooch hit on women"
-    },
-    {
-        "Name": "Matthew \"Matt\" Montera",
-        "Location": "The Endzone, frisbee field",
-        "Position": "Dline Handler",
-        "Number": "26",
-        "imgURL": "https://live.staticflickr.com/65535/52270987612_66f1a4038d_b.jpg",
-        "Redflag": "\"MY HUSBAND... \""
     }
 ]
