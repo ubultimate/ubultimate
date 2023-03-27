@@ -1,35 +1,11 @@
 [
     {
-        "Name": "Emma \"Virus\" Adam",
-        "Location": "Practically the GOAT",
-        "Position": "Handler",
-        "Number": "15",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Emma.JPG",
-        "Redflag": "Does not pay rent for the amout of time spent at the GOAT"
-    },
-    {
-        "Name": "Emilee \"Derz\" Nelson",
-        "Location": "The JCC pool",
-        "Position": "there are positions in this sport?",
-        "Number": "18",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Derz.jpg",
-        "Redflag": "won UB chem club jeopardy, twice"
-    },
-    {
-        "Name": "Mehak Arya",
-        "Location": "the clap (part of the 78% :P)",
-        "Position": "Shutdown Defense",
-        "Number": "14",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Mehak.jpg",
-        "Redflag": "Does'nt correct people when they say her name wrong"
-    },
-    {
-        "Name": "Morgan \"Gasm\" Arrowood",
-        "Location": "sadly, the clap",
-        "Position": "Doesn't matter, shes open anyways",
-        "Number": "11",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Gasm.jpg",
-        "Redflag": "LOVES Harry Styles"
+        "Name": "Mary Gannon",
+        "Location": "PROT",
+        "Position": "Cutter",
+        "Number": "5",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Totally on the frisbee team..."
     },
     {
         "Name": "Hannah \"Big Rona\" Wilcox",
@@ -40,6 +16,62 @@
         "Redflag": "Gives people Covid and is late to most places"
     },
     {
+        "Name": "Gracy \"Grass\"Aderibigbe",
+        "Location": "In front of the handlers",
+        "Position": "Cutter",
+        "Number": "7",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Grace.jpg",
+        "Redflag": "Micaela's roommate :0"
+    },
+    {
+        "Name": "Micaela \"Oinks\" Aylward-Pigott",
+        "Location": "Brooklyn",
+        "Position": "Handler",
+        "Number": "9",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Micaela.jpg",
+        "Redflag": "Doesn't have Venmo"
+    },
+    {
+        "Name": "Megan Dreher",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Morgan \"Morgasm\" Arrowood",
+        "Location": "sadly, the clap",
+        "Position": "Doesn't matter, shes open anyways",
+        "Number": "11",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Gasm.jpg",
+        "Redflag": "LOVES Harry Styles"
+    },
+    {
+        "Name": "Abigail Feldman",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Mehak Arya",
+        "Location": "the clap (part of the 78% :P)",
+        "Position": "Shutdown Defense",
+        "Number": "14",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Mehak.jpg",
+        "Redflag": "Does'nt correct people when they say her name wrong"
+    },
+    {
+        "Name": "Emma Adam",
+        "Location": "Practically the GOAT",
+        "Position": "Handler",
+        "Number": "15",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Emma.JPG",
+        "Redflag": "Does not pay rent for the amout of time spent at the GOAT"
+    },
+    {
         "Name": "Elizabeth Fish",
         "Location": "atlantic city",
         "Position": "Cutter",
@@ -48,7 +80,47 @@
         "Redflag": "Used to go to Naz"
     },
     {
-        "Name": "Ru",
+        "Name": "Alyssa DeCaro",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "17",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Oatis' mother"
+    },
+    {
+        "Name": "Emilee \"Derz\" Nelson",
+        "Location": "The JCC pool",
+        "Position": "there are positions in this sport?",
+        "Number": "18",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Derz.jpg",
+        "Redflag": "won UB chem club jeopardy, twice"
+    },
+    {
+        "Name": "Scarlett Topilow",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "19",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Caroline Dexter",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "20",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Friends with Slice"
+    },
+    {
+        "Name": "Cailey Hunes",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "21",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Amaru \"Ru\" Marsee",
         "Location": "Taylor Swift Concerts",
         "Position": "Cutter",
         "Number": "23",
@@ -56,12 +128,20 @@
         "Redflag": "\"Sorry I don't want to play ultimate\""
     },
     {
-        "Name": "Gracy \"Grass\"Aderibigbe",
-        "Location": "In front of the handlers",
+        "Name": "Amanda Chan",
+        "Location": "N/A",
         "Position": "Cutter",
-        "Number": "66",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Grace.jpg",
-        "Redflag": "Micaela's roommate :0"
+        "Number": "25",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Feebs Micah",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "33",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
     },
     {
         "Name": "Heidi Eberhardt",
@@ -72,11 +152,35 @@
         "Redflag": "Also in the Outdoor Adventures Club"
     },
     {
-        "Name": "Micaela Aylward-Pigott",
-        "Location": "brooklyn",
-        "Position": "Handler",
-        "Number": "9",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Micaela.jpg",
-        "Redflag": "Doesn't have Venmo"
+        "Name": "Jules Evans",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "44",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Christina \"Chris\" Ochman",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "50",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Allanis Persaud",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "72",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Only plays in the spring..."
+    },
+    {
+        "Name": "Marian Huynh",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "80",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
     }
 ]
