@@ -8,44 +8,12 @@
         "Redflag": "Is Ralicki’s son. Also known at Agent 47 to his fellow assasins"
     },
     {
-        "Name": "Zane \"Big Slice\" Roth",
-        "Location": "CLOWN TOWN, NY",
-        "Position": "D team \"captain\"",
-        "Number": "49",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Slice.jpg",
-        "Redflag": "\"THOSE EYES ARE FURTHER APART THAN ZANE AND THE A-TEAM\""
-    },
-    {
-        "Name": "Jacob \"Stacy\" Korotkin",
-        "Location": "HIS MOM’S HOUSE, NY",
+        "Name": "Carter \"Doors\" LaFond",
+        "Location": "NEW HARTFORD, NY",
         "Position": "Handler",
-        "Number": "22",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Stacy.jpg",
-        "Redflag": "Won’t let anyone see his mom"
-    },
-    {
-        "Name": "Jay \"Roundabout\" Pierce",
-        "Location": "ABI’S APARTMENT",
-        "Position": "Handler",
-        "Number": "87",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Jay.jpg",
-        "Redflag": "Obsessed with Peanuts, has cans of them all around him, wakes up in the middle of the night to eat them"
-    },
-    {
-        "Name": "Mike \"Ox Long\" Olmoz",
-        "Location": "NEWBURGH",
-        "Position": "Where he is needed",
-        "Number": "84",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Ox.jpg",
-        "Redflag": "Always needs to use the bathroom"
-    },
-    {
-        "Name": "Damien \"Paintball\" Hotte",
-        "Location": "Rochestaa, NY",
-        "Position": "Handler",
-        "Number": "21",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Paintball.jpg",
-        "Redflag": "Always loses at paintball (can’t dodge a single one)..."
+        "Number": "3",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Doors.jpg",
+        "Redflag": "Hucks to Gavin without a second thought"
     },
     {
         "Name": "Joe \"Big Rig\" Gambino",
@@ -56,100 +24,20 @@
         "Redflag": "Drinks milk instead of water at practice"
     },
     {
-        "Name": "Nate Degan",
-        "Location": "LONG ISLAND",
-        "Position": "Handler",
-        "Number": "17",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "Jets fan..."
-    },
-    {
-        "Name": "Emre \"Turks\" Gonul",
-        "Location": "Ralicki's bed",
+        "Name": "Jhan Rosario",
+        "Location": "Naked during padiddle",
         "Position": "Cutter",
-        "Number": "77",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Emre.jpg",
-        "Redflag": "Is touchy when not sober"
-    },
-    {
-        "Name": "Engin \"Caicos\" Can Kaya",
-        "Location": "IZMIR, TURKEY",
-        "Position": "Handler",
-        "Number": "10",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Caicos.jpg",
-        "Redflag": "Can’t remember the force"
-    },
-    {
-        "Name": "Jacob \"Loki\" Little",
-        "Location": "SOMEWHERE ON SOUTH IN CLINICALS",
-        "Position": "Hybrid",
-        "Number": "33",
+        "Number": "5",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "Pinches my nipples every time I see him"
+        "Redflag": "N/A"
     },
     {
-        "Name": "Jason Dubester",
-        "Location": "STATEN ISLAND",
-        "Position": "Also Staten Island",
-        "Number": "82",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Jason.jpg",
-        "Redflag": "Lives with Todd by choice"
-    },
-    {
-        "Name": "Ryan \"Yamz\" Yam",
-        "Location": "NOT AT PRACTICE...",
-        "Position": "Umbrella Holder",
-        "Number": "99",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Yamz.png",
-        "Redflag": "Drops pulls"
-    },
-    {
-        "Name": "Carter \"Doors\" LaFond",
-        "Location": "NEW HARTFORD, NY",
-        "Position": "Handler",
-        "Number": "3",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Doors.jpg",
-        "Redflag": "Hucks to Gavin without a second thought"
-    },
-    {
-        "Name": "Gavin LaBouf",
-        "Location": "BLOOD DRIVE",
-        "Position": "Handler",
-        "Number": "13",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Gavin.jpg",
-        "Redflag": "Isn’t related to Shia Lebouf"
-    },
-    {
-        "Name": "Nate Sciara",
-        "Location": "THE LINE AT TIM HORTONS AT 9AM",
+        "Name": "Dylan Zinsley",
+        "Location": "N/A",
         "Position": "Cutter",
-        "Number": "51",
+        "Number": "7",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "really wants a nickname"
-    },
-    {
-        "Name": "Ryan Joslyn",
-        "Location": "LONG ISLAND",
-        "Position": "Hybrid",
-        "Number": "26",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Ryan.jpg",
-        "Redflag": "Watches people sleep"
-    },
-    {
-        "Name": "Sammy \"Moose Tracks\" Stringer",
-        "Location": "ROCHESTER, NY",
-        "Position": "Handler",
-        "Number": "95",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Sammy.jpg",
-        "Redflag": "Was a track kid in high school"
-    },
-    {
-        "Name": "Killian \"Stache\" Hannigan",
-        "Location": "SLICE'S BED, NY",
-        "Position": "Cutter",
-        "Number": "14",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Stache.jpg",
-        "Redflag": "Works for SA, buts much funnier that Slice so it's fine"
+        "Redflag": "N/A"
     },
     {
         "Name": "Griffin \"Ghirardelli\" Fielding",
@@ -160,6 +48,22 @@
         "Redflag": "Does not give out chocolate... like expected"
     },
     {
+        "Name": "Jaden Gorozabel",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "9",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Engin \"Caicos\" Can Kaya",
+        "Location": "IZMIR, TURKEY",
+        "Position": "Handler",
+        "Number": "10",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Caicos.jpg",
+        "Redflag": "Can’t remember the force"
+    },
+    {
         "Name": "Jacob \"Rosys\" Rosys",
         "Location": "THE MARRIOTT",
         "Position": "Stack Setter",
@@ -168,11 +72,187 @@
         "Redflag": "Isn’t the cutest Jacob on the team..."
     },
     {
-        "Name": "John Lutz",
+        "Name": "Gavin LaBouf",
+        "Location": "BLOOD DRIVE",
+        "Position": "Handler",
+        "Number": "13",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Gavin.jpg",
+        "Redflag": "Isn’t related to Shia Lebouf"
+    },
+    {
+        "Name": "Killian \"Stache\" Hannigan",
+        "Location": "SLICE'S BED, NY",
+        "Position": "Cutter",
+        "Number": "14",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Stache.jpg",
+        "Redflag": "Works for SA, buts much funnier that Slice so it's fine"
+    },
+    {
+        "Name": "Nate Degan",
+        "Location": "LONG ISLAND",
+        "Position": "Handler",
+        "Number": "17",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Jets fan..."
+    },
+    {
+        "Name": "Aaron Sullivan",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "19",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Same major as Patrick"
+    },
+    {
+        "Name": "Patrick Robisch",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "20",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Same major as Aaron"
+    },
+    {
+        "Name": "Damien \"Paintball\" Hotte",
+        "Location": "Rochestaa, NY",
+        "Position": "Handler",
+        "Number": "21",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Paintball.jpg",
+        "Redflag": "Always loses at paintball (can’t dodge a single one)..."
+    },
+    {
+        "Name": "Jacob \"Stacy\" Korotkin",
+        "Location": "HIS MOM’S HOUSE, NY",
+        "Position": "Handler",
+        "Number": "22",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Stacy.jpg",
+        "Redflag": "Won’t let anyone see his mom"
+    },
+    {
+        "Name": "Dylan Berry",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "24",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Ryan Joslyn",
+        "Location": "LONG ISLAND",
+        "Position": "Hybrid",
+        "Number": "26",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Ryan.jpg",
+        "Redflag": "Watches people sleep"
+    },
+    {
+        "Name": "Luke Laboy",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "29",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Nick Wong",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "43",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Ethan Tuttle",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "44",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Zane \"Big Slice\" Roth",
+        "Location": "CLOWN TOWN, NY",
+        "Position": "D team \"captain\"",
+        "Number": "49",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Slice.jpg",
+        "Redflag": "\"THOSE EYES ARE FURTHER APART THAN ZANE AND THE A-TEAM\""
+    },
+    {
+        "Name": "Jake Ryan",
+        "Location": "N/A",
+        "Position": "Cutter",
+        "Number": "50",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Nate Sciara",
+        "Location": "THE LINE AT TIM HORTONS AT 9AM",
+        "Position": "Cutter",
+        "Number": "51",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "really wants a nickname"
+    },
+    {
+        "Name": "Bobby Havner",
+        "Location": "Improv room",
+        "Position": "Cutter",
+        "Number": "55",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "N/A"
+    },
+    {
+        "Name": "Jacob \"Loki\" Little",
+        "Location": "SOMEWHERE ON SOUTH IN CLINICALS",
+        "Position": "Hybrid",
+        "Number": "33",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Pinches my nipples every time I see him"
+    },
+    {
+        "Name": "Emre \"Turks\" Gonul",
+        "Location": "Ralicki's bed",
+        "Position": "Cutter",
+        "Number": "77",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Emre.jpg",
+        "Redflag": "Is touchy when not sober"
+    },
+    {
+        "Name": "Jason Dubester",
+        "Location": "STATEN ISLAND",
+        "Position": "Also Staten Island",
+        "Number": "82",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Jason.jpg",
+        "Redflag": "Lives with Todd by choice"
+    },
+    {
+        "Name": "Mike \"Ox Long\" Olmoz",
+        "Location": "NEWBURGH",
+        "Position": "Where he is needed",
+        "Number": "84",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Ox.jpg",
+        "Redflag": "Always needs to use the bathroom"
+    },
+    {
+        "Name": "Jay \"Roundabout\" Pierce",
+        "Location": "ABI’S APARTMENT",
+        "Position": "Handler",
+        "Number": "87",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Jay.jpg",
+        "Redflag": "Obsessed with Peanuts, has cans of them all around him, wakes up in the middle of the night to eat them"
+    },
+    {
+        "Name": "Ryan \"Yamz\" Yam",
+        "Location": "NOT AT PRACTICE...",
+        "Position": "Umbrella Holder",
+        "Number": "99",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Yamz.png",
+        "Redflag": "Drops pulls"
+    },
+    {
+        "Name": "Sammy \"Moose Tracks\" Stringer",
         "Location": "ROCHESTER, NY",
         "Position": "Handler",
-        "Number": "25",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "Looks like Johnny Bravo"
+        "Number": "95",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Sammy.jpg",
+        "Redflag": "Was a track kid in high school"
     }
 ]
