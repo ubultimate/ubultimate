@@ -24,12 +24,12 @@
         "Redflag": "Drinks milk instead of water at practice"
     },
     {
-        "Name": "Jhan Rosario",
+        "Name": "Jhan \"T'Challa\" Rosario",
         "Location": "Naked during padiddle",
         "Position": "Cutter",
         "Number": "5",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
+        "Redflag": "Down for anything. No really, anything."
     },
     {
         "Name": "Dylan Zinsley",
@@ -49,11 +49,11 @@
     },
     {
         "Name": "Jaden Gorozabel",
-        "Location": "N/A",
+        "Location": "Deep space waiting for a huck",
         "Position": "Cutter",
         "Number": "9",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
+        "Redflag": "Paintball’s roommate"
     },
     {
         "Name": "Engin \"Caicos\" Can Kaya",
@@ -88,12 +88,12 @@
         "Redflag": "Works for SA, buts much funnier that Slice so it's fine"
     },
     {
-        "Name": "Nate Degan",
-        "Location": "LONG ISLAND",
+        "Name": "Nate \"Glue\"Degan",
+        "Location": "The Glue Factory",
         "Position": "Handler",
         "Number": "17",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "Jets fan..."
+        "Redflag": "Jets fan"
     },
     {
         "Name": "Aaron Sullivan",
@@ -136,28 +136,28 @@
         "Redflag": "N/A"
     },
     {
-        "Name": "Ryan Joslyn",
-        "Location": "LONG ISLAND",
-        "Position": "Hybrid",
+        "Name": "Ryan \"Skitz\"Joslyn",
+        "Location": "Mental Hospital",
+        "Position": "Handler",
         "Number": "26",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Ryan.jpg",
-        "Redflag": "Watches people sleep"
+        "Redflag": "\"Blehhh, I’m hungry for *****\""
     },
     {
         "Name": "Luke Laboy",
-        "Location": "N/A",
+        "Location": "Trunk of his white van",
         "Position": "Cutter",
         "Number": "29",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
+        "Redflag": "Owns a white van"
     },
     {
         "Name": "Nick Wong",
-        "Location": "N/A",
+        "Location": "The Toolbox",
         "Position": "Cutter",
         "Number": "43",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
+        "Redflag": "Only throws piss missiles"
     },
     {
         "Name": "Ethan Tuttle",
@@ -176,15 +176,15 @@
         "Redflag": "\"THOSE EYES ARE FURTHER APART THAN ZANE AND THE A-TEAM\""
     },
     {
-        "Name": "Jake Ryan",
-        "Location": "N/A",
+        "Name": "Jake \"Venom\"Ryan",
+        "Location": "Middair",
         "Position": "Cutter",
         "Number": "50",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
+        "Redflag": "Is not actually Venom"
     },
     {
-        "Name": "Nate Sciara",
+        "Name": "Nate \"Sahara\" Sciara",
         "Location": "THE LINE AT TIM HORTONS AT 9AM",
         "Position": "Cutter",
         "Number": "51",
