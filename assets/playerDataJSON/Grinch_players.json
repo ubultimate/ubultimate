@@ -32,14 +32,6 @@
         "Redflag": "Down for anything. No really, anything."
     },
     {
-        "Name": "Dylan Zinsley",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "7",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
-    },
-    {
         "Name": "Griffin \"Ghirardelli\" Fielding",
         "Location": "CHARLIE’S CHOCOLATE FACTORY",
         "Position": "Handler",
@@ -94,14 +86,6 @@
         "Number": "17",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
         "Redflag": "Jets fan"
-    },
-    {
-        "Name": "Aaron Sullivan",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "19",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "Same major as Patrick"
     },
     {
         "Name": "Patrick Robisch",
@@ -160,14 +144,6 @@
         "Redflag": "Only throws piss missiles"
     },
     {
-        "Name": "Ethan Tuttle",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "44",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
-    },
-    {
         "Name": "Zane \"Big Slice\" Roth",
         "Location": "CLOWN TOWN, NY",
         "Position": "D team \"captain\"",
@@ -190,14 +166,6 @@
         "Number": "51",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
         "Redflag": "really wants a nickname"
-    },
-    {
-        "Name": "Bobby Havner",
-        "Location": "Improv room",
-        "Position": "Cutter",
-        "Number": "55",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
     },
     {
         "Name": "Jacob \"Loki\" Little",
@@ -238,14 +206,6 @@
         "Number": "87",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Jay.jpg",
         "Redflag": "Obsessed with Peanuts, has cans of them all around him, wakes up in the middle of the night to eat them"
-    },
-    {
-        "Name": "Ryan \"Yamz\" Yam",
-        "Location": "NOT AT PRACTICE...",
-        "Position": "Umbrella Holder",
-        "Number": "99",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Yamz.png",
-        "Redflag": "Drops pulls"
     },
     {
         "Name": "Sammy \"Moose Tracks\" Stringer",
