@@ -32,14 +32,6 @@
         "Redflag": "Doesn't have Venmo"
     },
     {
-        "Name": "Megan Dreher",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "10",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
-    },
-    {
         "Name": "Morgan \"Morgasm\" Arrowood",
         "Location": "sadly, the clap",
         "Position": "Doesn't matter, shes open anyways",
@@ -96,22 +88,6 @@
         "Redflag": "won UB chem club jeopardy, twice"
     },
     {
-        "Name": "Scarlett Topilow",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "19",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
-    },
-    {
-        "Name": "Caroline Dexter",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "20",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "Friends with Slice"
-    },
-    {
         "Name": "Cailey Hunes",
         "Location": "N/A",
         "Position": "Cutter",
@@ -128,36 +104,12 @@
         "Redflag": "\"Sorry I don't want to play ultimate\""
     },
     {
-        "Name": "Amanda Chan",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "25",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
-    },
-    {
-        "Name": "Feebs Micah",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "33",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
-    },
-    {
         "Name": "Heidi Eberhardt",
         "Location": "on her bike",
         "Position": "Cutter",
         "Number": "39",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/loraxRoster/Lorax_Heidi.jpg",
         "Redflag": "Also in the Outdoor Adventures Club"
-    },
-    {
-        "Name": "Jules Evans",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "44",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
     },
     {
         "Name": "Christina \"Chris\" Ochman",
@@ -174,13 +126,5 @@
         "Number": "72",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
         "Redflag": "Only plays in the spring..."
-    },
-    {
-        "Name": "Marian Huynh",
-        "Location": "N/A",
-        "Position": "Cutter",
-        "Number": "80",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
-        "Redflag": "N/A"
     }
 ]
