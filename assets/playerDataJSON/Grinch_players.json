@@ -1,11 +1,99 @@
 [
     {
+        "Name": "Matthew \"MattyBRaps\" Yengle",
+        "Location": "Spencers",
+        "Position": "Nose Piercing",
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": "Defensive Liability"
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
+        "Name": "",
+        "Location": "",
+        "Position": "",
+        "Number": "",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "Redflag": ""
+    },
+    {
         "Name": "Todd \"Tim Bits\" Sella",
         "Location": "NYC",
         "Position": "Cutter",
         "Number": "0",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
         "Redflag": "Is Ralicki’s son. Also known at Agent 47 to his fellow assasins"
+    },
+    {
+        "Name": "Seamus Rowan",
+        "Location": "GOAT",
+        "Position": "Cutter",
+        "Number": "2",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Seamus.jpg",
+        "Redflag": "His throws are worse than Seaworld... let that sink in"
     },
     {
         "Name": "Carter \"Doors\" LaFond",
@@ -48,14 +136,6 @@
         "Redflag": "Paintball’s roommate"
     },
     {
-        "Name": "Engin \"Caicos\" Can Kaya",
-        "Location": "IZMIR, TURKEY",
-        "Position": "Handler",
-        "Number": "10",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Caicos.jpg",
-        "Redflag": "Can’t remember the force"
-    },
-    {
         "Name": "Jacob \"Rosys\" Rosys",
         "Location": "THE MARRIOTT",
         "Position": "Stack Setter",
@@ -86,6 +166,14 @@
         "Number": "17",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Glue.jpg",
         "Redflag": "Jets fan"
+    },
+    {
+        "Name": "Ethan \"Pancakes\" Snyderman",
+        "Location": "HIS ROOM.",
+        "Position": "Linebacker",
+        "Number": "18",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Ethan.jpg",
+        "Redflag": "Throwing liability"
     },
     {
         "Name": "Patrick Robisch",
@@ -133,15 +221,7 @@
         "Position": "Cutter",
         "Number": "29",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_LukeLaBoy.jpg",
-        "Redflag": "Owns a white van"
-    },
-    {
-        "Name": "Nick \"Spike\" Wong",
-        "Location": "The Toolbox",
-        "Position": "Cutter",
-        "Number": "43",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_NickWong.jpg",
-        "Redflag": "Only throws piss missiles"
+        "Redflag": "Sucks at driving"
     },
     {
         "Name": "Zane \"Slice\" Roth",
@@ -168,36 +248,12 @@
         "Redflag": "really wants a nickname"
     },
     {
-        "Name": "Jacob \"Loki\" Little",
-        "Location": "SOMEWHERE ON SOUTH IN CLINICALS",
-        "Position": "Hybrid",
-        "Number": "33",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Loki.jpg",
-        "Redflag": "Pinches my nipples every time I see him"
-    },
-    {
-        "Name": "Emre \"Turks\" Gonul",
-        "Location": "Ralicki's bed",
-        "Position": "Cutter",
-        "Number": "77",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Emre.jpg",
-        "Redflag": "Is touchy when not sober"
-    },
-    {
         "Name": "Jason Dubester",
         "Location": "STATEN ISLAND",
         "Position": "Also Staten Island",
         "Number": "82",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Jason.jpg",
         "Redflag": "Lives with Todd by choice"
-    },
-    {
-        "Name": "Mike \"Ox Long\" Olmoz",
-        "Location": "NEWBURGH",
-        "Position": "Where he is needed",
-        "Number": "84",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_Ox.jpg",
-        "Redflag": "Always needs to use the bathroom"
     },
     {
         "Name": "Jay \"Roundabout\" Pierce",

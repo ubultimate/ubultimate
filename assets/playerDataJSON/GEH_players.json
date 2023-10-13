@@ -1,19 +1,51 @@
-[
+[ 
     {
-        "Name": "Sam \"B. Shaft\" Sommers-Thaler",
-        "Location": "JCC GYM",
-        "Position": "Handler",
-        "Number": "1",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Shaft.jpg",
-        "Redflag": "Gets really exited when high"
+        "Name": "Matthew \"Jonsey\" Jones",
+        "Location": "Couch",
+        "Position": "Standler",
+        "Number": "2",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Lucas.jpg",
+        "Redflag": "Loves making gift baskets"
     },
     {
-        "Name": "Seamus Rowan",
-        "Location": "GOAT",
-        "Position": "Cutter",
-        "Number": "2",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Seamus.jpg",
-        "Redflag": "His throws are worse than Seaworld... let that sink in"
+        "Name": "Chi Huan Lei ",
+        "Location": "Knox 20",
+        "Position": "Defensive Bench",
+        "Number": "16",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Lucas.jpg",
+        "Redflag": "\"Asian\" -Devin"
+    },
+    {
+        "Name": "Nicolas \"Tree F*cker\" Angulo",
+        "Location": "Ithica, Spain",
+        "Position": "Lefty Handler",
+        "Number": "7",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Lucas.jpg",
+        "Redflag": "Asked for a nickname"
+    },
+    {
+        "Name": "Gavin Otty",
+        "Location": "The foot Doctor",
+        "Position": "The Doctor's Chair",
+        "Number": "11",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Lucas.jpg",
+        "Redflag": "Roommates with Zyn"
+    },
+    {
+        "Name": "Neil \"Echo\" Lin",
+        "Location": "The CLAP",
+        "Position": "Handler",
+        "Number": "18",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Lucas.jpg",
+        "Redflag": "Not allowed on Amusement park rides"
+    },
+    {
+        "Name": "Nick \"Spike\" Wong",
+        "Location": "The Engieering Library",
+        "Position": "Diverisity Hire",
+        "Number": "29",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Lucas.jpg",
+        "Redflag": "worse than vinny, at talking to women"
     },
     {
         "Name": "Lucas \"DP\" Taber",
@@ -25,20 +57,13 @@
     },
     {
         "Name": "Justin \"Seale\" Seale",
-        "Location": "NJ.",
+        "Location": "Philly",
         "Position": "Definitely Handler",
         "Number": "8",
         "imgURL": "https://live.staticflickr.com/65535/52272446380_f6e71b81f3_z.jpg",
-        "Redflag": "Fortnite god also people just throw at him on defense"
+        "Redflag": "Fortnite god also and better handler than his brother"
     },
-    {
-        "Name": "Kevin Puebla",
-        "Location": "TIM HORTONS ON SUNDAYS",
-        "Position": "Handler",
-        "Number": "11",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Kev.jpg",
-        "Redflag": "Jack's son... I know right"
-    },
+    
     {
         "Name": "Asa \"Elsa\" Mohammed",
         "Location": "Gov's",
@@ -47,30 +72,16 @@
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Elsa.jpg",
         "Redflag": "Hits on freshmen strictly to recruit them for Women's team"
     },
-    {
-        "Name": "Rodrigo \"Rod\" Tjan",
-        "Location": "SLICK WILLIE'S, BUFFALO",
-        "Position": "Handler",
-        "Number": "13",
-        "imgURL": "https://www.buffalo.edu/content/dam/www/reporter/2019/09/Freshman-special-item/Freshmen-special-item-05.jpg",
-        "Redflag": "def a playa"
-    },
+    
     {
         "Name": "Devin \"JJ\" Hendricks",
-        "Location": "ALBANY, NY!!!",
-        "Position": "The bench, below Joey's bench",
+        "Location": "The Capital of NY",
+        "Position": "Defensive Legend",
         "Number": "15",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Dev1.jpg",
-        "Redflag": "Banned from main groupchat for 3 months"
+        "Redflag": "Players for Albany Alibi"
     },
-    {
-        "Name": "Ethan \"Pancakes\" Snyderman",
-        "Location": "HIS ROOM.",
-        "Position": "Linebacker",
-        "Number": "18",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Ethan.jpg",
-        "Redflag": "Throwing liability"
-    },
+    
     {
         "Name": "Noah \"Mingo\" Reifenheiser",
         "Location": "LADY TOWN, NY",
@@ -81,7 +92,7 @@
     },
     {
         "Name": "Elliot \"Zeke\" Rivera",
-        "Location": "the GOAT",
+        "Location": "Alumni Arena",
         "Position": "Handler",
         "Number": "22",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Zeke.jpg",
@@ -101,31 +112,7 @@
         "Position": "Cutter",
         "Number": "24",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Mike.jpg",
-        "Redflag": "He's just not that guy"
-    },
-    {
-        "Name": "Joe \"Push Pass\" Bachraty",
-        "Location": "SHERMAN HALL 25",
-        "Position": "Handler",
-        "Number": "25",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Push.jpg",
-        "Redflag": "Shoved a probe up Elsa's butt hole?!"
-    },
-    {
-        "Name": "Matthew \"Matt\" Montera",
-        "Location": "The Endzone, frisbee field",
-        "Position": "Dline Handler",
-        "Number": "26",
-        "imgURL": "https://live.staticflickr.com/65535/52270987612_66f1a4038d_b.jpg",
-        "Redflag": "\"MY HUSBAND... \""
-    },
-    {
-        "Name": "Chris Mattos",
-        "Location": "PROBABLY IN THE LIBRARY...",
-        "Position": "Cutter",
-        "Number": "27",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Chris.jpg",
-        "Redflag": "Lives with Naps"
+        "Redflag": "He really is just not that guy"
     },
     {
         "Name": "Josh \"Seale\" Seale",
@@ -133,55 +120,47 @@
         "Position": "Handler",
         "Number": "28",
         "imgURL": "https://live.staticflickr.com/65535/52272446380_f6e71b81f3_z.jpg",
-        "Redflag": "Fortnite god also people just throw at him on defense. Has shorter hair than Justin."
-    },
-    {
-        "Name": "Andrew \"Licki\" Ralicki",
-        "Location": "SOME CONSTRUCTION SITE, NY",
-        "Position": "Def Cutter. Have you seen his flicks",
-        "Number": "29",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Licki.jpg",
-        "Redflag": "\"I’m Ralicki, I go to buffalo, I want to fight fire and whatever because it’s cool\""
+        "Redflag": "Roommates with Soap..."
     },
     {
         "Name": "Evan \"Vinny\" Bembenista",
-        "Location": "Elsa's floor",
+        "Location": "Freshmen Dorms",
         "Position": "Handler",
         "Number": "35",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Vinny.jpg",
-        "Redflag": "Said no to Michelle"
+        "Redflag": "a walking red flag"
     },
     {
         "Name": "Thomas \"Swipes\" Graham",
         "Location": "IN LONG ISLAND",
-        "Position": "Hybrid",
+        "Position": "Handler",
         "Number": "40",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Swipes.jpg",
-        "Redflag": "\"I don’t use a dishwater, I use women\" -TG 2022"
+        "Redflag": "\"I've never seen him wash dishes, I wash his dishes when I'm at his house\" -Dogs"
     },
     {
         "Name": "Colton \"Colt\" Zack",
-        "Location": "BACK OF THE ENDZONE (L)",
+        "Location": "Fly Fishing Lake",
         "Position": "Hybrid",
         "Number": "45",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Colt.jpg",
-        "Redflag": "Secretly sexiest"
+        "Redflag": "Outwardly sexiest"
     },
     {
-        "Name": "Sean \"Hunka\" O'Malley",
+        "Name": "Sean O'Malley",
         "Location": "Where all the B*t*hes at",
         "Position": "Handler",
         "Number": "52",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Sean.jpg",
-        "Redflag": "Doesn't hit on enough women."
+        "Redflag": "Is somehow the current president"
     },
     {
         "Name": "Joey \"Naps\" LaMacchia",
-        "Location": "ANNOYING TOWN, NY",
-        "Position": "Catcher of ICP from Elsa",
+        "Location": "THE CLAP",
+        "Position": "Deep Deep",
         "Number": "55",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Naps.jpg",
-        "Redflag": "Thinks Gooch is hornier than Elsa"
+        "Redflag": "Roommates with Jack..."
     },
     {
         "Name": "Jack \"Mehoff\" Puttre",
@@ -189,11 +168,11 @@
         "Position": "Handler",
         "Number": "63",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_JackPuttre.jpg",
-        "Redflag": "Lives with 78% of Lorax"
+        "Redflag": "Lives with 5% of Lorax"
     },
     {
         "Name": "Elias McQuade",
-        "Location": "GOOCH'S High school",
+        "Location": "The endzone",
         "Position": "Cutter",
         "Number": "77",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Eli.jpg",
@@ -209,18 +188,10 @@
     },
     {
         "Name": "Michael \"Soap\" Warsaw",
-        "Location": "TILTED TOWERS, NY",
+        "Location": "Gov... cause of the fields... ha ha ha... 👀",
         "Position": "Cutter",
         "Number": "87",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Soap.jpg",
         "Redflag": "\"Just 5 letters organized in a funny way\""
-    },
-    {
-        "Name": "Oatis Bustamante",
-        "Location": "GOOCH'S",
-        "Position": "Cuttest dog ever",
-        "Number": "88",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/GEH_Oatis.jpg",
-        "Redflag": "Helps gooch hit on women"
     }
 ]
