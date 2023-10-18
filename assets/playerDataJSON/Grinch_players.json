@@ -4,80 +4,88 @@
         "Location": "Spencers",
         "Position": "Nose Piercing",
         "Number": "0",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
         "Redflag": "Defensive Liability"
     },
     {
-        "Name": "",
+        "Name": "Matthew \"America\" Freeland",
+        "Location": "The U, S of A",
+        "Position": "Cutter",
+        "Number": "76",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Isn’t actually a free look"
+    },
+    {
+        "Name": "Tyler \"Sushi\" Hau",
+        "Location": "",
+        "Position": "Cutter",
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Likes eating sushi for breakfast"
+    },
+    {
+        "Name": "Thomas Chin",
+        "Location": "",
+        "Position": "Hybrid",
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Infinite cramps"
+    },
+    {
+        "Name": "Aiden \"DJ\" Delany",
+        "Location": "",
+        "Position": "Cutter",
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Is oddly reminiscent of Dropshot..."
+    },
+    {
+        "Name": "Quinn Lesperance",
         "Location": "",
         "Position": "",
-        "Number": "",
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "No one can ever remember his last name"
+    },
+    {
+        "Name": "Luke \"Grill\" Weber",
+        "Location": "Some dad’s backyard",
+        "Position": "Cutter",
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "He can NOT cook."
+    },
+    {
+        "Name": "Luke Gentry",
+        "Location": "The sideline",
+        "Position": "Resident cripple",
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Broke his leg and dislocated his ankle before anything really happened"
+    },
+    {
+        "Name": "Qasim \"Q\" Lakh",
+        "Location": "",
+        "Position": "Cutter",
+        "Number": "0",
         "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
         "Redflag": ""
     },
     {
-        "Name": "",
-        "Location": "",
+        "Name": "Kyle \"Zyn\" Kinkade",
+        "Location": "The gas station",
         "Position": "",
-        "Number": "",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
-        "Redflag": ""
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Always needs his zyn"
     },
     {
-        "Name": "",
-        "Location": "",
-        "Position": "",
-        "Number": "",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
-        "Redflag": ""
-    },
-    {
-        "Name": "",
-        "Location": "",
-        "Position": "",
-        "Number": "",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
-        "Redflag": ""
-    },
-    {
-        "Name": "",
-        "Location": "",
-        "Position": "",
-        "Number": "",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
-        "Redflag": ""
-    },
-    {
-        "Name": "",
-        "Location": "",
-        "Position": "",
-        "Number": "",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
-        "Redflag": ""
-    },
-    {
-        "Name": "",
-        "Location": "",
-        "Position": "",
-        "Number": "",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
-        "Redflag": ""
-    },
-    {
-        "Name": "",
-        "Location": "",
-        "Position": "",
-        "Number": "",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
-        "Redflag": ""
-    },
-    {
-        "Name": "",
-        "Location": "",
-        "Position": "",
-        "Number": "",
-        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/grinchRoster/Grinch_TimBits.jpg",
-        "Redflag": ""
+        "Name": "Trent Meyer",
+        "Location": "South Campus",
+        "Position": "Handler",
+        "Number": "0",
+        "imgURL": "https://ubultimate.github.io/ubultimate/assets/img/gehRoster/classicOldMan.jpg",
+        "Redflag": "Is older than all of the captains"
     },
     {
         "Name": "Todd \"Tim Bits\" Sella",
@@ -216,7 +224,7 @@
         "Redflag": "\"Blehhh, I’m hungry for *****\""
     },
     {
-        "Name": "Luke Laboy",
+        "Name": "Luke LaBoy",
         "Location": "Trunk of his white van",
         "Position": "Cutter",
         "Number": "29",
