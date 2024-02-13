@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #3498db;
+    /* cool colored background */
+    color: #fff;
+    /* white text */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 200px;
+    font-size: 2rem;
+}
+
+.counter {
+    font-size: 3rem;
+}
