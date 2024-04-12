@@ -1,6 +1,6 @@
   // Function to calculate days and times between two dates
   function calculateTime() {
-    const grahamThrowDate = new Date('2024-02-12T22:45:00');
+    const grahamThrowDate = new Date('2024-04-11T23:11:00');
     const currentDate = new Date();
 
     const timeDifference = currentDate.getTime() - grahamThrowDate.getTime();
