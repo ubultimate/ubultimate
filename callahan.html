@@ -1,22 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<HEAD>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>Callahan Timer</title>
-
     <link rel="stylesheet" href="css/callahan.css">
-</HEAD>
 
-<BODY>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
 
-    <h1>Days Since Graham Threw a Callahan in GAME!!!</h1>
-    <div class="counter" id="counter"></div>
+        th, td {
+            border: 1px solid #856161;
+            text-align: left;
+            padding: 8px;
+        }
 
+        tr:nth-child(even) {
+            background-color: #c68989;
+            /* Light gray background for even rows */
+        }
 
+        /* Optional: Styling for table header */
+        th {
+            background-color: #81ad61;
+        }
+
+        /* Adjusted background color for odd rows to ensure readability */
+        tr:nth-child(odd) {
+            background-color: #c68989;
+            /* White background for odd rows */
+        }
+    </style>
+
+</head>
+
+<body>
+    <table id="timerTable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Graham</td>
+                <td id="counter1"></td>
+            </tr>
+            <tr>
+                <td>Graham again</td>
+                <td id="counter2"></td>
+            </tr>
+        </tbody>
+    </table>
     <script src="js/callahan.js"></script>
-</BODY>
+</body>
 
 </html>

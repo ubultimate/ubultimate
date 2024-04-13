@@ -1,19 +1,23 @@
-  // Function to calculate days and times between two dates
-  function calculateTime() {
-    const grahamThrowDate = new Date('2024-04-11T23:11:00');
-    const currentDate = new Date();
+// Function to calculate days and times between two dates
+function calculateTime(id, startDate) {
+  const startDateTime = new Date(startDate);
+  const currentDate = new Date();
 
-    const timeDifference = currentDate.getTime() - grahamThrowDate.getTime();
-    const daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-    const hoursDifference = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const minutesDifference = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
-    const secondsDifference = Math.floor((timeDifference % (1000 * 60)) / 1000);
+  const timeDifference = currentDate.getTime() - startDateTime.getTime();
+  const daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+  const hoursDifference = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutesDifference = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+  const secondsDifference = Math.floor((timeDifference % (1000 * 60)) / 1000);
 
-    document.getElementById('counter').innerText = `${daysDifference}days, ${hoursDifference}h, ${minutesDifference}min, ${secondsDifference}s`;
-  }
+  document.getElementById(id).innerText = `${daysDifference} days, ${hoursDifference} hours, ${minutesDifference} minutes, ${secondsDifference} seconds`;
+}
 
-  // Call the function initially
-  calculateTime();
+// Call the function initially for both rows
+calculateTime('counter1', '2024-04-11T23:11:00');
+calculateTime('counter2', '2024-04-12T19:12:00');
 
-  // Update the counter every second
-  setInterval(calculateTime, 1000);
+// Update the counters every second
+setInterval(() => {
+  calculateTime('counter1', '2024-04-11T23:11:00');
+  calculateTime('counter2', '2024-04-12T19:12:00');
+}, 1000);
