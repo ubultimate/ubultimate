@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elsa's Secret Santa</title>
+    <link rel="stylesheet" href="css/callahan.css">
+
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #856161;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #c68989;
+            /* Light gray background for even rows */
+        }
+
+        /* Optional: Styling for table header */
+        th {
+            background-color: #81ad61;
+        }
+
+        /* Adjusted background color for odd rows to ensure readability */
+        tr:nth-child(odd) {
+            background-color: #c68989;
+            /* White background for odd rows */
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1>VP Killian</h1>
+    <table id="timerTable">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Days since Killian promised Elsa his Secret Santa gift... but he still hasn't recieved it yet...</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td id="counter1"></td>
+            </tr>
+        </tbody>
+    </table>
+    <script src="js/killian.js"></script>
+</body>
+
+</html>
